@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on nostuff.org</title>
+    <link>http://localhost:1313/nostuff-hugo/about/</link>
+    <description>Recent content in Abouts on nostuff.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/nostuff-hugo/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/nostuff-hugo/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nostuff-hugo/about/about/</guid>
+      <description>This is the long suffering website of Chris Keene. I&amp;rsquo;m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.&#xA;My background is in technology within higher education, especially around research and libraries.&#xA;This website goes somewhat through a boom and bust cycle. That latter currently being the case (and arguable always has been, hence the name).&#xA;You will find a collection of quite old articles in something that looks suspiciously like a blog.</description>
+    </item>
+  </channel>
+</rss>

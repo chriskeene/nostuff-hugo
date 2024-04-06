@@ -6,6 +6,9 @@ title = 'About'
 This is the long suffering website of Chris Keene. I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
 
 
+![your image](2017ck3.jpg)
+
+
 My background is in technology within higher education, especially around research and libraries. 
 
 This website goes somewhat through a boom and bust cycle. That latter currently being the case (and arguable always has been, hence the name). 
