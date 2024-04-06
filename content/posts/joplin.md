@@ -10,9 +10,9 @@ I looked at a few options but settled on [**Joplin**](https://joplinapp.org/). I
 - Free and open source
 - Like Evernote (and Onenote), has Notebooks, and notes within them.
 - Apps for Mac, and Android, which is what I needed (and other platforms too)
-- Your data is stored in Mark Down and fully accessible to you. No lock-in!
-- Connects to dropbox (amongst others). All my notes are stored on my Dropbox account (as plain text Mark Down files). I just point any new device to my Dropbox folder.
-- Mark Down makes it easy to share and reuse content, eg I can paste straight to a file for Jekyll for my website - i.e. that's exactly what I'm doing for this article.
-- Fast, focuses on the task in hand (text notes with basic markup)
+- Your data is stored in Markdown and fully accessible to you. No lock-in! That is to say, all the content is stored as plain text files using the markdown syntax
+- Connects to dropbox (amongst others). All my notes are stored on my Dropbox account (as plain text Markdown files). I just point any new device to my Dropbox folder.
+- Markdown makes it easy to share and reuse content, eg to write this message I'm using Joplin, I will then copy this note in its raw form and paste it to a new file on mu Hugo drive website - which also uses Markdown.
+- Fast, focuses on the task in hand (text notes with basic markup), not adding random new features I don't need.
 
 Would recommend to anyone looking for something similar.
