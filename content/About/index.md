@@ -17,9 +17,9 @@ You will find a collection of quite old [articles in something that looks suspic
 
 You can also find me at:
 
-- Bluesky (no idea): [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
+- Bluesky: [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
 - The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
 - Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
-- Some random photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
+- Some random photos on insta [@chriskeene1](https://www.instagram.com/chriskeene1/)
 - Formely on the other site: [@chriskeene](http://www.twitter.com/chriskeene/)
-- You can contact me by email hello@nostuff.org
+- You can contact me by email hello @ ck12.uk

@@ -1,6 +1,16 @@
 baseURL = 'https://nostuff.org/'
 languageCode = 'en-us'
-title = 'nostuff.org'
+title = 'nostuff.org | Chris Keene'
 theme = 'ananke'
 sectionPagesMenu = 'main'
 
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+  [[params.ananke_socials]]
+    name =  'mastodon'
+    url = 'https://mastodon.social/@chriskeene'
+    rel = 'me noopener'
