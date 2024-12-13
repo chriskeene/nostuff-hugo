@@ -1,12 +1,12 @@
 +++
 title = 'About'
-
+menus = ['main', 'footer']
 +++
 
 This is the long suffering website of Chris Keene. I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
 
 
-![your image](2017ck3.jpg)
+![Photo of Chris Keene](2017ck3.jpg)
 
 
 My background is in technology within higher education, especially around research and libraries. 
@@ -17,9 +17,9 @@ You will find a collection of quite old [articles in something that looks suspic
 
 You can also find me at:
 
-- the hell site: [@chriskeene posting less and less](http://www.twitter.com/chriskeene/)
-- The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
 - Bluesky (no idea): [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
+- The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
 - Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
 - Some random photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
+- Formely on the other site: [@chriskeene](http://www.twitter.com/chriskeene/)
 - You can contact me by email hello@nostuff.org

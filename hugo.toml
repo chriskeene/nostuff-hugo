@@ -1,5 +1,6 @@
-baseURL = 'https://chriskeene.github.io/nostuff-hugo/'
+baseURL = 'https://nostuff.org/'
 languageCode = 'en-us'
 title = 'nostuff.org'
 theme = 'ananke'
 sectionPagesMenu = 'main'
+
