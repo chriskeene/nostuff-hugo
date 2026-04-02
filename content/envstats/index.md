@@ -1,5 +1,6 @@
 +++
-Title = 'UK Enviromental Statistics'
+Title = 'UK Enviromental Statistics' 
+menus = ['main', 'footer']
 +++
 We need to remove fossil fuels from the mix of energy sources we use in the UK
 - to reduce the impact of Climate Change and meet our Net Zero commitments
