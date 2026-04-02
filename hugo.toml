@@ -12,3 +12,5 @@ filename = "sitemap.xml"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[params.ananke_socials]]
