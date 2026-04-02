@@ -9,12 +9,6 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
-[params]
-  [[params.ananke_socials]]
-    name =  'mastodon'
-    url = 'https://mastodon.social/@chriskeene'
-    rel = 'me noopener'
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
