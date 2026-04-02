@@ -20,6 +20,6 @@ filename = "sitemap.xml"
     url = 'https://mastodon.social/@chriskeene'
     rel = 'me noopener'
   name = 'twitter'
-    labe; = 'twitter'
+    lab = 'twitter'
     url = 'https://twitter.com/GoHugoIO'
   
