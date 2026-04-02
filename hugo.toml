@@ -14,3 +14,7 @@ filename = "sitemap.xml"
     name =  'mastodon'
     url = 'https://mastodon.social/@chriskeene'
     rel = 'me noopener'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
