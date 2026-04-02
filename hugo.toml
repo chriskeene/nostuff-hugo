@@ -15,4 +15,9 @@ filename = "sitemap.xml"
     dir = ':cacheDir/images'
 
 [[params.ananke_socials]]
+    name =  'mastodon'
+    url = 'https://mastodon.social/@chriskeene'
+    rel = 'me noopener'
+    name = "twitter"
+    url = "https://twitter.com/GoHugoIO"
   
