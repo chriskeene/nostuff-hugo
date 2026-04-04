@@ -6,28 +6,35 @@
     <description>Recent content in nostuff.org on nostuff.org | Chris Keene</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Oct 2023 18:47:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 18:47:54 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>http://localhost:1313/posts/test1/</link>
+      <pubDate>Mon, 02 Mar 2026 18:47:54 +0100</pubDate>
+      <guid>http://localhost:1313/posts/test1/</guid>
+      <description>&lt;p&gt;this is another test&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Joplin</title>
       <link>http://localhost:1313/posts/joplin/</link>
       <pubDate>Fri, 27 Oct 2023 18:47:54 +0100</pubDate>
       <guid>http://localhost:1313/posts/joplin/</guid>
-      <description>A couple of years ago I questioned why I should renew my Evernote subscription. I was only using the basic functionality and wondered if there are alternatives out there.&#xA;I looked at a few options but settled on Joplin. It&amp;rsquo;s great and fits my needs perfectly.&#xA;Free and open source Like Evernote (and Onenote), has Notebooks, and notes within them. Apps for Mac, and Android, which is what I needed (and other platforms too) Your data is stored in Markdown and fully accessible to you.</description>
+      <description>&lt;p&gt;A couple of years ago I questioned why I should renew my Evernote subscription. I was only using the basic functionality and wondered if there are alternatives out there.&lt;/p&gt;&#xA;&lt;p&gt;I looked at a few options but settled on &lt;a href=&#34;https://joplinapp.org/&#34;&gt;&lt;strong&gt;Joplin&lt;/strong&gt;&lt;/a&gt;. It&amp;rsquo;s great and fits my needs perfectly.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Free and open source&lt;/li&gt;&#xA;&lt;li&gt;Like Evernote (and Onenote), has Notebooks, and notes within them.&lt;/li&gt;&#xA;&lt;li&gt;Apps for Mac, and Android, which is what I needed (and other platforms too)&lt;/li&gt;&#xA;&lt;li&gt;Your data is stored in Markdown and fully accessible to you. No lock-in! That is to say, all the content is stored as plain text files using the markdown syntax&lt;/li&gt;&#xA;&lt;li&gt;Connects to dropbox (amongst others). All my notes are stored on my Dropbox account (as plain text Markdown files). I just point any new device to my Dropbox folder.&lt;/li&gt;&#xA;&lt;li&gt;Markdown makes it easy to share and reuse content, eg to write this message I&amp;rsquo;m using Joplin, I will then copy this note in its raw form and paste it to a new file on mu Hugo drive website - which also uses Markdown.&lt;/li&gt;&#xA;&lt;li&gt;Fast, focuses on the task in hand (text notes with basic markup), not adding random new features I don&amp;rsquo;t need.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Would recommend to anyone looking for something similar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>This is the long suffering website of Chris Keene. I&amp;rsquo;m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.&#xA;My background is in technology within higher education, especially around research and libraries.&#xA;This website goes somewhat through a boom and bust cycle. That latter currently being the case (and arguable always has been, hence the name).&#xA;You will find a collection of quite old articles in something that looks suspiciously like a blog.</description>
+      <description>&lt;p&gt;This is the long suffering website of Chris Keene. I&amp;rsquo;m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;2017ck3.jpg&#34; alt=&#34;Photo of Chris Keene&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My background is in technology within higher education, especially around research and libraries.&lt;/p&gt;&#xA;&lt;p&gt;This website goes somewhat through a boom and bust cycle. The latter currently being the case (and arguable always has been, hence the name).&lt;/p&gt;&#xA;&lt;p&gt;You will find a collection of quite old &lt;a href=&#34;https://www.nostuff.org/words/&#34;&gt;articles in something that looks suspiciously like a blog&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UK Enviromental Statistics</title>
       <link>http://localhost:1313/envstats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/envstats/</guid>
-      <description>We need to remove fossil fuels from the mix of energy sources we use in the UK&#xA;to reduce the impact of Climate Change and meet our Net Zero commitments to reduce local pollution to reduce our reliance on oil and gas that are subject to price fluctuations, supply issues and, in some cases, put money in the pockets of hostile states. </description>
+      <description>&lt;p&gt;We need to remove fossil fuels from the mix of energy sources we use in the UK&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;to reduce the impact of Climate Change and meet our Net Zero commitments&lt;/li&gt;&#xA;&lt;li&gt;to reduce local pollution&lt;/li&gt;&#xA;&lt;li&gt;to reduce our reliance on oil and gas that are subject to price fluctuations, supply issues and, in some cases, put money in the pockets of hostile states.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
