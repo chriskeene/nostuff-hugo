@@ -15,7 +15,11 @@ filename = "sitemap.xml"
     dir = ':cacheDir/images'
 
 [[params.ananke_socials]]
-  name = 'twitter'
-    lab = 'twitter'
-    url = 'https://twitter.com/GoHugoIO'
+  name = 'bluesky'
+    lab = 'bluesky'
+    url = 'https://bsky.app/profile/chriskeene.bsky.social'
+
+    [[ananke.social.bluesky]]
+      username = "chriskeene.bsky.social"
+      profilelink = "https://bsky.app/profile/chriskeene.bsky.social"
   
