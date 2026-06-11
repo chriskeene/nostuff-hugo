@@ -9,4 +9,4 @@ There seems to be several reasons we need to remove fossil fuels from the mix of
 
 There are various websites available that log our progress (and we are making progress) towards this.
 
-I've been working very slowly on providing some statistics to help track this, the first of which shows the uptake of solar to our power grid: [https://nostuff.org/envstats/stats/solar]
+I've been working very slowly on providing some statistics to help track this, the first of which shows the [uptake of solar to our power grid](https://nostuff.org/envstats/stats/solar).
