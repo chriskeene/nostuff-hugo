@@ -5,16 +5,9 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in nostuff.org on nostuff.org | Chris Keene</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 18:47:54 +0100</lastBuildDate>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 27 Oct 2023 18:47:54 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test1</title>
-      <link>http://localhost:1313/posts/test1/</link>
-      <pubDate>Mon, 02 Mar 2026 18:47:54 +0100</pubDate>
-      <guid>http://localhost:1313/posts/test1/</guid>
-      <description>&lt;p&gt;this is another test&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Joplin</title>
       <link>http://localhost:1313/posts/joplin/</link>
@@ -31,10 +24,10 @@
     </item>
     <item>
       <title>UK Enviromental Statistics</title>
-      <link>http://localhost:1313/envstats/</link>
+      <link>http://localhost:1313/envstats-introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/envstats/</guid>
-      <description>&lt;p&gt;We need to remove fossil fuels from the mix of energy sources we use in the UK&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;to reduce the impact of Climate Change and meet our Net Zero commitments&lt;/li&gt;&#xA;&lt;li&gt;to reduce local pollution&lt;/li&gt;&#xA;&lt;li&gt;to reduce our reliance on oil and gas that are subject to price fluctuations, supply issues and, in some cases, put money in the pockets of hostile states.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/envstats-introduction/</guid>
+      <description>&lt;p&gt;There seems to be several reasons we need to remove fossil fuels from the mix of energy sources we use in the UK&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;to reduce the impact of Climate Change and meet our Net Zero commitments&lt;/li&gt;&#xA;&lt;li&gt;to reduce local pollution&lt;/li&gt;&#xA;&lt;li&gt;to reduce our reliance on oil and gas that are subject to price fluctuations, supply issues and, in some cases, put money in the pockets of hostile states.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;There are various websites available that log our progress (and we are making progress) towards this.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
