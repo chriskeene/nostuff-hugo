@@ -1,7 +1,7 @@
 baseURL = 'https://nostuff.org/'
 languageCode = 'en-gb'
 title = 'nostuff.org | Chris Keene'
-theme = 'ananke'
+theme = 'not-much'
 sectionPagesMenu = 'main'
 disable_share = 'true'
 
