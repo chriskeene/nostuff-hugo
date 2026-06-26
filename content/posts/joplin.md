@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joplin"
-date:   2023-10-27 18:47:54 +0100
+date:   2023-10-27
 ---
 A couple of years ago I questioned why I should renew my Evernote subscription. I was only using the basic functionality and wondered if there are alternatives out there.
 

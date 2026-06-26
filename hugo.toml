@@ -1,6 +1,6 @@
 baseURL = 'https://nostuff.org/'
 languageCode = 'en-gb'
-title = 'nostuff.org | Chris Keene'
+title = 'nostuff.org'
 theme = 'not-much'
 sectionPagesMenu = 'main'
 disable_share = 'true'
@@ -23,3 +23,12 @@ filename = "sitemap.xml"
       username = "chriskeene.bsky.social"
       profilelink = "https://bsky.app/profile/chriskeene.bsky.social"
   
+[params]
+theme = "auto"
+palette = "eink"
+
+[[menu.main]]
+  identifier = "Home"
+  name = "home"
+  title = "Home"
+  url = "/"

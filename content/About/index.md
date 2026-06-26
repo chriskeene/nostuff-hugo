@@ -19,7 +19,7 @@ You can also find me at:
 
 - Bluesky: [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social) - this is really the only site I post to.
 - The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
-- Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
+- Threads, because I sort of felt I should do: [@chriskeene1](https://www.threads.net/@chriskeene1)
 - Some random photos on insta [@chriskeene1](https://www.instagram.com/chriskeene1/)
 - Formely on the site which we don't use any more (the everything app): @chriskeene
 - You can contact me by email hello @ ck12.uk

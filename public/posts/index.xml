@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on nostuff.org | Chris Keene</title>
+    <title>Posts on nostuff.org</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on nostuff.org | Chris Keene</description>
+    <description>Recent content in Posts on nostuff.org</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Oct 2023 18:47:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joplin</title>
       <link>http://localhost:1313/posts/joplin/</link>
-      <pubDate>Fri, 27 Oct 2023 18:47:54 +0100</pubDate>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/joplin/</guid>
       <description>&lt;p&gt;A couple of years ago I questioned why I should renew my Evernote subscription. I was only using the basic functionality and wondered if there are alternatives out there.&lt;/p&gt;&#xA;&lt;p&gt;I looked at a few options but settled on &lt;a href=&#34;https://joplinapp.org/&#34;&gt;&lt;strong&gt;Joplin&lt;/strong&gt;&lt;/a&gt;. It&amp;rsquo;s great and fits my needs perfectly.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Free and open source&lt;/li&gt;&#xA;&lt;li&gt;Like Evernote (and Onenote), has Notebooks, and notes within them.&lt;/li&gt;&#xA;&lt;li&gt;Apps for Mac, and Android, which is what I needed (and other platforms too)&lt;/li&gt;&#xA;&lt;li&gt;Your data is stored in Markdown and fully accessible to you. No lock-in! That is to say, all the content is stored as plain text files using the markdown syntax&lt;/li&gt;&#xA;&lt;li&gt;Connects to dropbox (amongst others). All my notes are stored on my Dropbox account (as plain text Markdown files). I just point any new device to my Dropbox folder.&lt;/li&gt;&#xA;&lt;li&gt;Markdown makes it easy to share and reuse content, eg to write this message I&amp;rsquo;m using Joplin, I will then copy this note in its raw form and paste it to a new file on mu Hugo drive website - which also uses Markdown.&lt;/li&gt;&#xA;&lt;li&gt;Fast, focuses on the task in hand (text notes with basic markup), not adding random new features I don&amp;rsquo;t need.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Would recommend to anyone looking for something similar.&lt;/p&gt;</description>
     </item>
